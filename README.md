@@ -12,7 +12,7 @@ I've utilized Selenium Java to test the "Borsheims" site using Eclipse IDE.
 ## **Test Case 2**
 - Open the site and go to the Create Account page.
 - Do a registration for new users from an Excel file that you will fill in.
-- try creating 5 new users, and once you create the user, add "X" to the Excel sheet so the user information will not be used again.
+- try creating 3 new users, and once you create the user, add "X" to the Excel sheet so the user information will not be used again.
 - Each user should be created in a separate window and alone.
 - Make sure the registration is completed successfully and the username is displayed.
 - Log out from the account and log in again.
