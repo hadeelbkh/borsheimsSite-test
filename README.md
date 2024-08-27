@@ -3,7 +3,7 @@ I've utilized Selenium Java to test the "Borsheims" site using Eclipse IDE.
 
 ## **Test Case 1**
 - Open the site and log in with a valid account
-- Search a list of brands (Hobo, Omega, Baccarat).
+- Search a list of brands (Hobo, Citizen, Baccarat).
 - *This list should be stored in an Excel file and the code chooses the brand randomly.*
 - *Make sure the brand name is displayed as a title on the search result page.*
 - Add the item to the bag and navigate to the bag page.
